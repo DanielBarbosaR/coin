@@ -1,0 +1,16 @@
+{
+  "name": "minero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "coin-imp": "^1.0.6",
+    "mocha": "^9.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
